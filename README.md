@@ -16,3 +16,6 @@
 **Current Members:** Andrew Leicht (Sept 2018-), Lynn Liu (Sept 2018-)
 
 **Past Members:**
+
+**Slack channel:** engr-journal-mining  
+**Site:** https://ai-club-uwmadison.github.io/projects_study-groups/#Generalized-Data-Mining-of-Science-Journals-Team
