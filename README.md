@@ -18,4 +18,4 @@
 **Past Members:**
 
 **Slack channel:** [engr-journal-mining](https://wisconsinai.slack.com/messages/CD3RFGV6K)  
-**Site:** https://ai-club-uwmadison.github.io/projects_study-groups/#Generalized-Data-Mining-of-Science-Journals-Team
+**Site:** https://ai-club-uwmadison.github.io/projects_study-groups/#generalized-data-mining-of-science-journals-team
